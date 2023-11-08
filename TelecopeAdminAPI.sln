@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecopeAdminAPI", "TelecopeAdminAPI\TelecopeAdminAPI.csproj", "{2E5B26F0-8284-43F0-A3BD-9EBAF0740983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL_TelescopeAdmin", "BAL_TelescopeAdmin\BAL_TelescopeAdmin.csproj", "{929DCBA1-CCE0-41E4-A413-72FF1492A3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REF_TelescopeAdmin", "REF_TelescopeAdmin\REF_TelescopeAdmin.csproj", "{3C479884-C622-4D9E-A606-7CD5CEA70A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5B26F0-8284-43F0-A3BD-9EBAF0740983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5B26F0-8284-43F0-A3BD-9EBAF0740983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5B26F0-8284-43F0-A3BD-9EBAF0740983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5B26F0-8284-43F0-A3BD-9EBAF0740983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929DCBA1-CCE0-41E4-A413-72FF1492A3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929DCBA1-CCE0-41E4-A413-72FF1492A3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929DCBA1-CCE0-41E4-A413-72FF1492A3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929DCBA1-CCE0-41E4-A413-72FF1492A3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C479884-C622-4D9E-A606-7CD5CEA70A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C479884-C622-4D9E-A606-7CD5CEA70A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C479884-C622-4D9E-A606-7CD5CEA70A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C479884-C622-4D9E-A606-7CD5CEA70A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3233BDC0-E5B6-4BD8-B165-7B487CD22DD9}
+	EndGlobalSection
+EndGlobal
